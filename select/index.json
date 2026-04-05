@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "明かりを灯せ",
+  "base_artist": "syrup16g",
+  "createdAt": "2026-04-05T02:51:44.197344Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明かりを灯せ",
+      "artist": "Syrup 16g",
+      "has_synced": false,
+      "path": "select/pl_01_明かりを灯せ_Syrup_16g.txt"
+    }
+  ]
+}
